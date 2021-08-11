@@ -1,0 +1,22 @@
+.header-top {
+    display: flex;
+    justify-content: space-between;
+    }
+    .AppIcon {
+        width: 35px;
+        height: 35px;
+    }
+    .login-box {
+        cursor: pointer;
+    }
+
+.header-below {
+    padding-top: 10px;
+    }
+    .navigate-component {
+        cursor: pointer;
+        font-weight: 600;
+        color: gray;
+        padding-left: 5px;
+        padding-right: 5px;
+    }
